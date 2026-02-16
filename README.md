@@ -1,12 +1,13 @@
 
-*Amazon 3-Statement Financial Model*
+***Amazon 3-Statement Financial Model***
 
 
 A fully integrated, driver-based three-statement financial model for Amazon, built to reflect professional financial modelling standards
 
 *What’s inside* 
 
-Financial model (Excel): [Amazon_3_Statement_Model.xlsx](https://github.com/user-attachments/files/25273131/Amazon_3_Statement_Model.xlsx)
+Financial model (Excel): [Amazon_3_Statement_Model.xlsx](https://github.com/user-attachments/files/25348235/Amazon_3_Statement_Model.xlsx)
+
 * Fully linked Income Statement, Balance Sheet, and Cash Flow Statement
 * Historical period: FY2023–FY2025
 * Forecast period: FY2026–FY2030
